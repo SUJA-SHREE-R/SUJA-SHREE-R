@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📍 London, UK &nbsp;|&nbsp; 📱 +91-9444382252
+  📍 London, UK &nbsp;|&nbsp; 📱 +44 7349319828
 </p>
 
 ---
