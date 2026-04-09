@@ -20,10 +20,20 @@ Research professional with expertise in optimization algorithm development, data
 ---
 
 ## 🏢 Professional Experience
+### 🔹 Solution Developer  
+**Business Modelling Applications (BMA), Wastewater and Resource Recovery – London, UK**  
+_July 2025 – Present_
+- Spearheaded a £1M cost-saving optimisation programme, migrating from third-party solvers to an in-house Operational Research platform for Thames Water and Scottish Water across 200+ treatment sites
+- Built large-scale optimisation models (>20k variables) for sludge systems, optimising TOTEX (OpEx + CapEx) across strategic (10–40 years), tactical (12–60 months), and operational (12-week) horizons
+- Designed static and time-series optimisation frameworks capturing population-driven sludge demand growth, seasonal rainfall variability, and planned/unplanned asset downtime across treatment assets
+- Modelled national-scale logistics and material flows across hundreds of transport routes, incorporating storage capacities, return-liquor constraints, and inter-plant dependencies
+- Improved solver performance and robustness by 25% through model refactoring, delivering 40% faster solve times and stable production deployment
+- Embedded carbon emissions within multi-objective optimisation, enabling cost–carbon trade-off analysis and Net Zero scenario evaluation
+
 
 ### 🔹 Research Professional  
 **Siemens Technology and Services, Bangalore**  
-_Feb 2023 – Present_
+_Feb 2023 – June 2025_
 
 - Developed RL-based scheduling algorithm, reducing EV fleet costs by 12% and eliminating third-party reliance
 - Achieved 98% accuracy in EV charging time predictions using pyBaMM integrated to LSTM models
@@ -52,7 +62,7 @@ _May 2018 – Jul 2018_
 ## 🎓 Research Experience
 
 ### 🎓 Ph.D. Scholar – ML-Aided Optimization  
-**IIT Madras (Jan 2019 – Present)**
+**IIT Madras (Jan 2019 – 2026)**
 
 - Specialised in ML-aided optimisation, enhancing performance through function similarity based on topology using visualisation techniques
 - Applied a two-stage knowledge transfer process in NNs, reducing learning time by 30% and improving optimisation accuracy by 15%
@@ -95,16 +105,16 @@ _May 2018 – Jul 2018_
 
 
 ## 💻 Technical Skills
-
-| Category                    | Skills/Tools                                                                                                                                     |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages & Tools** | Python, MATLAB, C, C++, Simcenter HEEDS, Gurobi, Pyomo, Pymoo, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy                              |
-| **Statistical Testing**     | Hypothesis Testing, A/B Testing, t-tests, ANOVA, Chi-Square Test, Kolmogorov-Smirnov Test, Bootstrapping, Bayesian Inference                   |
-| **Machine Learning & AI**   | Supervised & Unsupervised Learning, Reinforcement Learning, Transfer Learning (TL), Bayesian Optimization, Deep Learning, NLP, Time Series Forecasting, Feature Engineering |
-| **Optimization Techniques** | Bayesian Optimization, Genetic Algorithms, Quantum-Inspired GA, Particle Swarm Optimization, NSGA, NSGA-II, Integer Programming, Convex Optimization |
-| **Explainable AI**          | SHAP, LIME, Model Interpretability, Feature Importance Analysis                                                                                 |
-| **Data Visualization & BI Tools** | Matplotlib, Seaborn, Plotly, SOM, Power BI, Tableau                                                                                        |
-| **Domain Applications**     | Energy Optimization, Predictive Analytics, Smart Mobility, Demand Forecasting, Time Series Analysis, Disassembly Line                          |
+| Category                         | Skills/Tools                                                                                                                                                                                          |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages & Tools** | Python, SQL, MATLAB, C, C++, Simcenter HEEDS, Gurobi, Pyomo, Pymoo, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Enterprise Optimiser                                                         |
+| **Statistical Testing**          | Hypothesis Testing, A/B Testing, t-tests, ANOVA, Chi-Square Test, Kolmogorov-Smirnov Test, Bootstrapping, Bayesian Inference                                                                        |
+| **Machine Learning & AI**        | Supervised & Unsupervised Learning, Reinforcement Learning, Transfer Learning (TL), Bayesian Optimization, Deep Learning, NLP, Time Series Forecasting, LLMs, GenAI, Transformer Architecture, RAG   |
+| **Optimization Techniques**      | Bayesian Optimization, Genetic Algorithms, Quantum-Inspired GA, Particle Swarm Optimization, NSGA, NSGA-II, Integer Programming, Convex Optimization                                                |
+| **Explainable AI**               | SHAP, LIME, Model Interpretability, Feature Importance Analysis                                                                                                                                      |
+| **Data Visualization & BI Tools** | Matplotlib, Seaborn, Plotly, SOM, Power BI, Tableau                                                                                                                                                 |
+| **Cloud & MLOps**                | Git, GitHub, Jupyter Notebook, CI/CD for ML pipelines                                                                                                                                                |
+| **Domain Applications**          | Energy Optimization, Predictive Analytics, Smart Mobility, Demand Forecasting, Time Series Analysis, Disassembly Line                                                                                |                     |
 
 
 ---
