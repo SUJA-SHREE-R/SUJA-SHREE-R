@@ -1,182 +1,173 @@
-# 💼 Suja Shree Ravichandran
+<h1 align="center">Suja Shree Ravichandran</h1>
 
-**Research Professional in Optimization Methods | Data Scientist | EV Battery Modeling | Uncertainty Analysis | PhD in ML-Aided Optimization (IITM) | Algorithm Development | Data-Driven Decision Making**
+<p align="center">
+  <strong>Optimisation & OR Engineer · Data Scientist · Ph.D. Researcher (IIT Madras)</strong><br>
+  <em>Building decision systems that turn complexity into clarity — from sludge networks to EV fleets.</em>
+</p>
 
-📧 sujashree.r@gmail.com  
-📱 +91-9444382252  
-📍 Chennai, India  
-🌐 [LinkedIn](https://www.linkedin.com/in/suja-shree-r/) | [GitHub](https://github.com/SUJA-SHREE-R) | [LeetCode](https://leetcode.com/u/SUJA_SHREE_R/) | [Google Scholar](https://scholar.google.com/citations?user=guIHkAsAAAAJ&hl=en&authuser=1&oi=ao)
+<p align="center">
+  <a href="mailto:sujashree.r@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/suja-shree-r/">LinkedIn</a> ·
+  <a href="https://github.com/SUJA-SHREE-R">GitHub</a> ·
+  <a href="https://leetcode.com/u/SUJA_SHREE_R/">LeetCode</a> ·
+  <a href="https://scholar.google.com/citations?user=guIHkAsAAAAJ&hl=en&authuser=1&oi=ao">Google Scholar</a>
+</p>
+
+<p align="center">
+  📍 London, UK &nbsp;|&nbsp; 📱 +91-9444382252
+</p>
 
 ---
 
-## 🧠 Summary
+## About Me
 
-Research professional with expertise in optimization algorithm development, data analytics, and machine learning. Currently pursuing Ph.D. at IIT Madras with a focus on industrial decision-making through ML-aided optimization. Experience spans across custom heuristics, digital twin systems, EV battery modeling, and advanced curve calibration techniques.  
+I'm an optimisation engineer and applied ML researcher who builds production-grade decision systems for large-scale industrial problems. My work sits at the intersection of **operational research**, **machine learning**, and **domain engineering** — translating messy real-world constraints into models that save money, cut carbon, and run reliably.
 
-- 🧪 3 patents filed | 📃 5+ Invention Disclosures | 📰 2 journals published | 🌍 2 international conferences presented  
-- 📊 Co-chair of International conference iNCMDAO, IISc Bangalore
-- 🧠 Skilled in ML, RL, time series prediction models, surrogate modeling, and uncertainty modeling  
+Currently a **Solution Developer at BMA** (London), optimising wastewater treatment across 200+ sites for Thames Water and Scottish Water. Previously a **Research Professional at Siemens**, where I built RL-based scheduling systems and battery prediction models for EV fleets. Completing my **Ph.D. at IIT Madras** on ML-aided optimisation with transfer learning.
+
+**3 patents** · **5+ invention disclosures** · **2 journals (combined 119 citations)** · **2 international conference presentations**
 
 ---
 
-## 🏢 Professional Experience
-### 🔹 Solution Developer  
-**Business Modelling Applications (BMA), Wastewater and Resource Recovery – London, UK**  
+## 🏢 Experience
+
+### 🔹 Solution Developer
+**Business Modelling Applications (BMA), Wastewater & Resource Recovery — London, UK**
 _July 2025 – Present_
-- Spearheaded a £1M cost-saving optimisation programme, migrating from third-party solvers to an in-house Operational Research platform for Thames Water and Scottish Water across 200+ treatment sites
-- Built large-scale optimisation models (>20k variables) for sludge systems, optimising TOTEX (OpEx + CapEx) across strategic (10–40 years), tactical (12–60 months), and operational (12-week) horizons
-- Designed static and time-series optimisation frameworks capturing population-driven sludge demand growth, seasonal rainfall variability, and planned/unplanned asset downtime across treatment assets
+
+- Spearheaded a **£1M cost-saving** optimisation programme, migrating from third-party solvers to an in-house OR platform for Thames Water and Scottish Water across **200+ treatment sites**
+- Built large-scale optimisation models (**20,000+ variables**) for sludge systems, optimising TOTEX (OpEx + CapEx) across strategic (10–40 yr), tactical (12–60 mo), and operational (12-wk) horizons
+- Designed static and time-series optimisation frameworks capturing population-driven demand growth, seasonal rainfall variability, and planned/unplanned asset downtime
 - Modelled national-scale logistics and material flows across hundreds of transport routes, incorporating storage capacities, return-liquor constraints, and inter-plant dependencies
-- Improved solver performance and robustness by 25% through model refactoring, delivering 40% faster solve times and stable production deployment
-- Embedded carbon emissions within multi-objective optimisation, enabling cost–carbon trade-off analysis and Net Zero scenario evaluation
+- Improved solver performance and robustness by **25%** through model refactoring, delivering **40% faster** solve times and stable production deployment
+- Embedded carbon emissions within multi-objective optimisation, enabling cost–carbon trade-off analysis and **Net Zero** scenario evaluation
 
-
-### 🔹 Research Professional  
-**Siemens Technology and Services, Bangalore**  
+### 🔹 Research Professional
+**Siemens Technology and Services, Bangalore**
 _Feb 2023 – June 2025_
 
-- Developed RL-based scheduling algorithm, reducing EV fleet costs by 12% and eliminating third-party reliance
-- Achieved 98% accuracy in EV charging time predictions using pyBaMM integrated to LSTM models
-- Enhanced calibration reliability of valve models in an oil & gas industry by 50%, leveraging custom slope-sensitive error metrics and statistical testing techniques
-- Reduced optimisation complexity by 70% with heuristic based one-shot learning methods in fleet scheduling constrained optimisation problem
-- Analysed design space and optimization constraints, eliminating redundancies to reduce computational time by 25% and complexity by 30% in linear and non-linear fleet scheduling constrained optimisation problem
-- Filed 1 patent and led a team, mentoring 10+ interns on optimisation and ML projects
+- Developed RL-based scheduling algorithm, reducing EV fleet costs by **12%** and eliminating third-party reliance
+- Achieved **98% accuracy** in EV charging time predictions using pyBaMM integrated with LSTM models
+- Enhanced calibration reliability of valve models in oil & gas by **50%**, leveraging custom slope-sensitive error metrics and statistical testing techniques
+- Reduced optimisation complexity by **70%** with heuristic-based one-shot learning methods in fleet scheduling constrained optimisation
+- Analysed design space and optimisation constraints, eliminating redundancies to reduce computational time by **25%** and complexity by **30%**
+- Filed **1 patent** and led a team, mentoring **10+ interns** on optimisation and ML projects
 
- ### 🔹 Technical Research Intern 
- **Siemens Technology and Services, Bangalore**  
+### 🔹 Technical Research Intern
+**Siemens Technology and Services, Bangalore**
 _June 2021 – June 2022_
 
-- Designed interpretable Self-Organising Map to visualise topological similarities between functional spaces
-- Developed an NN optimisation algorithm and a GA-based approach to improve convergence of optimization model by 40 %
-- Filed 2 patents, published 1 journal paper, and presented at 2 international conferences on ML aided optimization
+- Designed interpretable Self-Organising Maps to visualise topological similarities between functional spaces
+- Developed an NN optimisation algorithm and a GA-based approach, improving convergence by **40%**
+- Filed **2 patents**, published **1 journal paper**, and presented at **2 international conferences**
 
-### 🔹 Research Intern  
-**ABB Ability Innovation Center, Bangalore**  
+### 🔹 Research Intern
+**ABB Ability Innovation Center, Bangalore**
 _May 2018 – Jul 2018_
 
-- Developed GA-based optimisation method for transmission line parameter estimation reducing electrical loss
-- Improved model accuracy and power management by 40%
- 
----
-
-## 🎓 Research Experience
-
-### 🎓 Ph.D. Scholar – ML-Aided Optimization  
-**IIT Madras (Jan 2019 – 2026)**
-
-- Specialised in ML-aided optimisation, enhancing performance through function similarity based on topology using visualisation techniques
-- Applied a two-stage knowledge transfer process in NNs, reducing learning time by 30% and improving optimisation accuracy by 15%
-- Analysed IMD rainfall data, identifying trends and anomalies for improved climate modelling and prediction by 15% considering uncertainties
-- Mentored 15+ interns and served as Teaching and Research Assistant for 50+ students for ML concepts
-- Created ML concept videos for academia and companies on probabilistic and non-probabilistic models 
+- Developed GA-based optimisation for transmission line parameter estimation, reducing electrical loss
+- Improved model accuracy and power management by **40%**
 
 ---
 
-## 🧠 Research & Projects 
+## 🎓 Education
 
-| # | Project Title | Duration | Key Contributions | Achievements |
-|---|---------------|----------|--------------------|--------------|
-| 1 | **ISOM-based Weight and Image Visualisation** | 6 months | - Developed modified SOM for topological similarity<br>- Compared weights/images for knowledge transfer | 🧠 Patent: 1<br>📄 Journal: 1<br>🌍 Conference: 1 |
-| 2 | **NN-based Optimization Algorithm** | 6 months | - Created NN optimization with two-shot weight transfer<br>- Improved convergence by 40% | 🧠 Patent: 1<br>📄 Journal: 1<br>🌍 Conference: 1 |
-| 3 | **GA-based Transfer Learning Approach** | 4 months | - Developed GA for hyperparameter and population knowledge transfer<br>- Boosted convergence by 30% | — |
-| 4 | **Simcenter HEEDS - Valve Model Curve Calibration** | 6 months | - Tackled flat curve issues using slope-sensitive error metrics<br>- Implemented 20+ custom performance metrics | 📥 Invention Disclosure: 1 |
-| 5 | **EV Depot Dispatch and Scheduling** | 12 months | - Built RL-based heuristic scheduling<br>- Solved bus unavailability and charging issues<br>- Eliminated 3rd-party dependencies | 🧠 Patent: 1 |
-| 6 | **Estimated Time for Charging (ETC) for EV Battery** | 12 months | - Used pyBaMM + LSTM for SOC prediction<br>- Achieved 98% accuracy<br>- Accounted for battery aging and chemistry | 📥 Invention Disclosure: 1<br>📄 Journal: 1 |
-| 7 | **One-Shot Learning for Optimization** | 6 months | - Solved constrained linear optimization in one shot<br>- Reduced complexity by 70% | 📥 Invention Disclosure: 1 |
-| 8 | **Qualification of Optimization Formulation** | 12 months | - Identified and removed redundant constraints<br>- Reduced time by 25%, complexity by 30% | 📥 Invention Disclosure: 1 |
-| 9 | **Quantum Inspired Genetic Algorithm** | 12 months | • Built test cases to validate algorithm logic and ensure all edge cases were covered <br> • Developed an SDK for platform integration and easy deployment of the algorithm |
-| 10 | **Optimization Knowledge Management System** | 6 months | • Stored critical metadata on optimization formulation, algorithms, and solutions in a structured MongoDB database <br> • Enabled querying via visualization techniques, NLP-based description understanding, and LLM-powered information retrieval <br> • Built the entire system as an API for integration as a software plugin | 📥 Invention Disclosure: 1 |
-| 11 | **Grid Energy Forecast** | 2 months | • Built an energy demand forecasting model considering uncertainties <br> • Integrated it into a stochastic energy model for optimal allocation of energy generation across multiple plants <br> • Achieved cost optimization while meeting load capacity and demand constraints with a 5% improvement in plant utilization accuracy |
-| 12 | **Battery Disassembly Optimization** | 1 month | • Real-time optimization of battery cover disassembly considering the condition of screws <br> • Parallel allocation of disassembly tasks to both human and robotic workstations <br> • Reduced overall disassembly time by 17% through smart scheduling and decision logic |
+### Ph.D. — ML-Aided Optimization
+**Indian Institute of Technology Madras** · _Jan 2019 – 2026_
 
+- Specialised in ML-aided optimisation with function similarity-based transfer learning using topological visualisation
+- Applied a two-stage knowledge transfer process in NNs, reducing learning time by **30%** and improving optimisation accuracy by **15%**
+- Analysed IMD rainfall data, identifying trends and anomalies for climate prediction improvement of **15%** under uncertainty
+- Mentored **15+ interns** and served as Teaching & Research Assistant for **50+ students**
+
+---
+
+## 💻 Technical Skills
+
+| Category | Skills / Tools |
+|---|---|
+| **Languages & Platforms** | Python, SQL, MATLAB, C, C++, Simcenter HEEDS, Gurobi, Pyomo, Pymoo, Enterprise Optimiser |
+| **ML & Deep Learning** | TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy — Supervised & Unsupervised Learning, RL, Transfer Learning, Deep Learning, NLP, Time Series Forecasting, LLMs, GenAI, Transformers, RAG |
+| **Optimisation** | Bayesian Optimisation, Genetic Algorithms, Quantum-Inspired GA, PSO, NSGA / NSGA-II, Integer Programming, Convex Optimisation |
+| **Statistics & Testing** | Hypothesis Testing, A/B Testing, t-tests, ANOVA, Chi-Square, Kolmogorov-Smirnov, Bootstrapping, Bayesian Inference |
+| **Explainable AI** | SHAP, LIME, Model Interpretability, Feature Importance Analysis |
+| **Visualisation & BI** | Matplotlib, Seaborn, Plotly, SOM, Power BI, Tableau |
+| **DevOps & Tooling** | Git, GitHub, Jupyter Notebook, CI/CD for ML pipelines |
+| **Domain Expertise** | Water & Wastewater Optimisation, Energy Systems, EV Fleet Scheduling, Predictive Analytics, Demand Forecasting, Smart Mobility |
+
+---
+
+## 🔬 Selected Projects
+
+| # | Project | Duration | Highlights | Output |
+|---|---------|----------|------------|--------|
+| 1 | **ISOM-based Weight & Image Visualisation** | 6 months | Modified SOM for topological similarity; weight/image comparison for knowledge transfer | 🧠 Patent · 📄 Journal · 🌍 Conference |
+| 2 | **NN-based Optimisation Algorithm** | 6 months | Two-shot weight transfer; improved convergence by 40% | 🧠 Patent · 📄 Journal · 🌍 Conference |
+| 3 | **GA-based Transfer Learning** | 4 months | Hyperparameter & population knowledge transfer; 30% convergence boost | — |
+| 4 | **Valve Model Curve Calibration** (Simcenter HEEDS) | 6 months | Slope-sensitive error metrics; 20+ custom performance metrics | 📥 Invention Disclosure |
+| 5 | **EV Depot Dispatch & Scheduling** | 12 months | RL-based heuristic scheduling; eliminated third-party dependencies | 🧠 Patent |
+| 6 | **EV Battery Charging Time Estimation** | 12 months | pyBaMM + LSTM; 98% accuracy accounting for battery aging & chemistry | 📥 Disclosure · 📄 Journal |
+| 7 | **One-Shot Learning for Optimisation** | 6 months | Solved constrained linear optimisation in one shot; 70% complexity reduction | 📥 Invention Disclosure |
+| 8 | **Optimisation Formulation Qualification** | 12 months | Redundant constraint elimination; 25% time reduction, 30% complexity reduction | 📥 Invention Disclosure |
+| 9 | **Quantum-Inspired Genetic Algorithm** | 12 months | End-to-end test suite; SDK for platform integration and deployment | — |
+| 10 | **Optimisation Knowledge Management System** | 6 months | MongoDB-backed metadata store; NLP + LLM retrieval; API-first architecture | 📥 Invention Disclosure |
+| 11 | **Grid Energy Demand Forecast** | 2 months | Stochastic energy model with uncertainty; 5% improvement in plant utilisation accuracy | — |
+| 12 | **Battery Disassembly Optimisation** | 1 month | Real-time human–robot task allocation; 17% reduction in disassembly time | — |
 
 ---
 
 ## 🏆 Achievements
 
-- 🎤 **Co-chaired** a technical session at the *iNCMDAO International Conference*, IISc Bangalore; also served on the **Paper Evaluation Committee**
-- 🧠 **Young Inventor IP Sanam Award** recipient at Siemens for innovative patent contributions
-- ✈️ **Travel Scholarship** worth **1,00,000 JPY** awarded by the organizing committee of **ACSMO 2022**
-- 🎓 Recipient of **AICTE (MHRD) Scholarships**:
-  - **Doctoral Fellowship** (2018–2022)
-  - **Masters Fellowship** (2016–2018)
+- **Co-chaired** a technical session at the *iNCMDAO International Conference*, IISc Bangalore; served on the Paper Evaluation Committee
+- **Young Inventor IP Sanam Award** — Siemens, for innovative patent contributions
+- **Travel Scholarship** — ¥100,000 JPY from the ACSMO 2022 organising committee (Matsue, Japan)
+- **AICTE (MHRD) Fellowships** — Doctoral Fellowship (2018–2022) and Masters Fellowship (2016–2018)
 
 ---
-
-
-## 💻 Technical Skills
-| Category                         | Skills/Tools                                                                                                                                                                                          |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages & Tools** | Python, SQL, MATLAB, C, C++, Simcenter HEEDS, Gurobi, Pyomo, Pymoo, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Enterprise Optimiser                                                         |
-| **Statistical Testing**          | Hypothesis Testing, A/B Testing, t-tests, ANOVA, Chi-Square Test, Kolmogorov-Smirnov Test, Bootstrapping, Bayesian Inference                                                                        |
-| **Machine Learning & AI**        | Supervised & Unsupervised Learning, Reinforcement Learning, Transfer Learning (TL), Bayesian Optimization, Deep Learning, NLP, Time Series Forecasting, LLMs, GenAI, Transformer Architecture, RAG   |
-| **Optimization Techniques**      | Bayesian Optimization, Genetic Algorithms, Quantum-Inspired GA, Particle Swarm Optimization, NSGA, NSGA-II, Integer Programming, Convex Optimization                                                |
-| **Explainable AI**               | SHAP, LIME, Model Interpretability, Feature Importance Analysis                                                                                                                                      |
-| **Data Visualization & BI Tools** | Matplotlib, Seaborn, Plotly, SOM, Power BI, Tableau                                                                                                                                                 |
-| **Cloud & MLOps**                | Git, GitHub, Jupyter Notebook, CI/CD for ML pipelines                                                                                                                                                |
-| **Domain Applications**          | Energy Optimization, Predictive Analytics, Smart Mobility, Demand Forecasting, Time Series Analysis, Disassembly Line                                                                                |                     |
-
-
----
-
 
 ## 🧠 Patents
 
-1. **Methods and framework for effective transfer learning applied on families of optimization problems**  
-   Patent No: *2022E08069 IN*  
-   Year: *2022*
-
-2. **Methods and framework for quantification of similarity assessment for transfer learning applied on families of optimization problems**  
-   Patent No: *2022E00049 IN*  
-   Year: *2022*
-
-3. **A smart heuristic algorithm for cost minimized dispatch planning of electric vehicle fleet**  
-   Patent No: *2024E01891 IN*  
-   Year: *2024*
+| # | Title | Patent No. | Year |
+|---|-------|-----------|------|
+| 1 | Methods and framework for effective transfer learning applied on families of optimisation problems | 2022E08069 IN | 2022 |
+| 2 | Methods and framework for quantification of similarity assessment for transfer learning applied on families of optimisation problems | 2022E00049 IN | 2022 |
+| 3 | A smart heuristic algorithm for cost-minimised dispatch planning of electric vehicle fleet | 2024E01891 IN | 2024 |
 
 ---
 
 ## 📚 Publications
 
-1. **Ravichandran, S. S., Sekar, K., Ramanath, V., & Ramu, P. (2023).**  
-   *Transfer learning in optimization: Interpretable self-organizing maps driven similarity indices to identify candidate source functions.*  
-   **Journal**: Expert Systems with Applications, 229, 120529  
-   **Impact Factor**: 8.86  
-   **Citations**: 6  
+**Ravichandran, S. S., Sekar, K., Ramanath, V., & Ramu, P. (2023).**
+Transfer learning in optimization: Interpretable self-organizing maps driven similarity indices to identify candidate source functions.
+*Expert Systems with Applications*, 229, 120529 — **IF: 8.86 · 6 citations**
 
-2. **Acar, E., Bayrak, G., Jung, Y., Lee, I., Ramu, P., & Ravichandran, S. S. (2021).**  
-   *Modeling, analysis, and optimization under uncertainties: a review.*  
-   **Journal**: Structural and Multidisciplinary Optimization, 64(5), 2909-2945  
-   **Impact Factor**: 4.85  
-   **Citations**: 113  
+**Acar, E., Bayrak, G., Jung, Y., Lee, I., Ramu, P., & Ravichandran, S. S. (2021).**
+Modeling, analysis, and optimization under uncertainties: a review.
+*Structural and Multidisciplinary Optimization*, 64(5), 2909-2945 — **IF: 4.85 · 113 citations**
 
-3. **Hanif, O., & Shree, R. S. (2019, March).**  
-   *Design and Analysis of Proportional Integral Derivative Controller and its hybrids.*  
-   **Conference**: IEEE 5th International Conference for Convergence in Technology (I2CT)  
-   **Citations**: 2  
+**Hanif, O., & Shree, R. S. (2019).**
+Design and analysis of Proportional Integral Derivative Controller and its hybrids.
+*IEEE 5th International Conference for Convergence in Technology (I2CT)* — **2 citations**
 
 ---
 
-## 🎤 Conferences
+## 🎤 Conference Presentations
 
-1. **Neural Network inspired Transfer Learning between source and target function**  
-   *Presented at:* World Congress of Structural and Multidisciplinary Optimization 2023  
-   *Location:* Cork, Ireland
-
-2. **Transfer Learning for Optimization**  
-   *Presented at:* Asian Congress of Structural and Multidisciplinary Optimization 2022  
-   *Location:* Matsue, Japan
-
+- **Neural Network inspired Transfer Learning between source and target function** — *WCSMO 2023*, Cork, Ireland
+- **Transfer Learning for Optimization** — *ACSMO 2022*, Matsue, Japan
 
 ---
 
+## 📬 Let's Connect
 
-## 🤝 Let's Connect!
+I'm actively seeking roles in **optimisation engineering**, **operations research**, **data science**, and **applied ML** — and I'm always open to research collaborations and mentorship opportunities.
 
-I'm always open to exciting opportunities—be it collaboration, mentorship, or research partnerships.  
-💼 **Open to work** — actively seeking roles in research, data science, or optimization-focused positions. Open to collaboration, mentorship, and research opportunities.
+<p align="center">
+  <a href="https://www.linkedin.com/in/suja-shree-r/">💼 LinkedIn</a> ·
+  <a href="mailto:sujashree.r@gmail.com">📧 sujashree.r@gmail.com</a> ·
+  <a href="https://github.com/SUJA-SHREE-R">🐙 GitHub</a>
+</p>
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your.email@example.com).
+---
 
-
-> _“Driven by data, powered by optimization.”_
+<p align="center"><em>"Driven by data, powered by optimisation."</em></p>
